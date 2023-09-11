@@ -1,1 +1,1 @@
-# project_others
+# Some small side projects here :)
